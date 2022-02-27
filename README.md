@@ -12,6 +12,5 @@
 Yashas-dev-xyz/Yashas-dev-xyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-.
-https://betterttv.com/emotes/5f1b0186cf6d2144653d2970
+
 
