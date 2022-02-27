@@ -1,5 +1,5 @@
 <!-- credits to NotTCA -->
-![](https://cdn.discordapp.com/attachments/922383662136320010/947364993588920350/git_hub_banner.jpg)
+![](https://cdn.discordapp.com/attachments/945914925858045995/947407088806682634/git_hub_banner.jpg)
 
 <h1 align="center">👋 Hey there, I'm Yashas</h1>
 <h3 align="center">Yet another web dev, working on my discord bot..! 🤖</h3>
