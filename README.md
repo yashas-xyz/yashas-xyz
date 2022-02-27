@@ -39,7 +39,7 @@
 
 ### 🎵 Spotify :>
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6Wex4-jgXvS9J2Odme04UIjDyjxAmHDqb8UqqPXsx5ryZx-JeKU292uClAAqBnN0dkk&usqp=CAU" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
+[<img src="https://i.pinimg.com/originals/32/cc/2b/32cc2b406b6ebbb792b8ee3cb3aac7e4.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
 
 <details>
 <summary>:zap: GitHub Stats</summary>
