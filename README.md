@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Yashas-dev-xyz
 - 👀 I’m interested in de
 - 🌱 I’m currently learning more about web development and python
-- 💞️ I’m looking to collaborate on a discord bot 
-- 📫 How to reach me 
-- 📧 Email:- yashas.codes@gmail.com
-- 🌐 Website:- In progress...
-- 💬 Discord:- [!Yashas#2984](https://discord.gg/gtzvnHZK8R)
+- 💞️ I’m looking to collaborate: on [Discord](dsc.gg/yashas)
+- 📫 How to reach me:-
+- 📧 Email: yashas.codes@gmail.com
+- 🌐 Website: In progress...
+- 💬 Discord: [!Yashas#2984](https://discordapp.com/users/793742209949630465)
+- ⚡ Fun fact: I love songs :>
 
 <!---
 Yashas-dev-xyz/Yashas-dev-xyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
