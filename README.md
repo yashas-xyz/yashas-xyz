@@ -37,7 +37,7 @@
 [<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
 <br/>
 
-### �🎵 Spotify :>
+### 🎵 Spotify :>
 
 [<img src="https://spotifynp.vercel.app/api/spotify" alt="yashas's Spotify"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
 
@@ -52,10 +52,9 @@
 <details>
 <summary>:zap: Most languages used</summary>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz
-)](https://github.com/anuraghazra/github-readme-stats)
-
+</details>
 
 
 <!-- Other Socials -->
