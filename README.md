@@ -24,10 +24,13 @@
 <br />
 
 
-## Languages i know 
+## Languages i'm good at/learning 
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/html5.svg" alt="html" width="40" height="40"/>][html]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/css3.svg" alt="css" width="40" height="40"/>][html]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/css3.svg" alt="css" width="40" height="40"/>][css]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/python.svg" alt="css" width="40" height="40"/>][python]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/javascript.svg" alt="css" width="40" height="40"/>][js]
+<br/>
 <br/>
 
 
@@ -43,8 +46,8 @@
 
 <details>
 <summary>:zap: GitHub Stats</summary>
-
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)
 </details>
@@ -55,6 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 
 
 <!-- Other Socials -->
@@ -69,6 +73,8 @@
 
 [html]: https://en.wikipedia.org/wiki/HTML
 [css]: https://en.wikipedia.org/wiki/css
+[python]: https://en.wikipedia.org/wiki/python
+[js]: https://en.wikipedia.org/wiki/javascript
 
 <!-- programs -->
 
