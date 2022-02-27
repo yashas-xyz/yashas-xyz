@@ -47,16 +47,15 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)
 </details>
 </br>
+
 <details>
 <summary>:zap: Most languages used</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </details>
 
 
