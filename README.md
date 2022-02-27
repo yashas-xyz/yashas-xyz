@@ -54,7 +54,7 @@
 </br>
 
 <details>
-<summary>:zap: Most languages used</summary>
+<summary>💻 Most languages used</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </details>
 
