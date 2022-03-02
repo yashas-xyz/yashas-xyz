@@ -40,9 +40,9 @@
 [<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
 <br/>
 
-### 🎵 Spotify :>
+### 🎶 Spotify :>
 
-[<img src="https://i.pinimg.com/originals/32/cc/2b/32cc2b406b6ebbb792b8ee3cb3aac7e4.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
+[<img src="https://i.pinimg.com/originals/fb/2e/3c/fb2e3c79c3b4fd757275ec1bd4ba6aa8.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
 
 <details>
 <summary>:zap: GitHub Stats</summary>
