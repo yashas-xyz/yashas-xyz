@@ -36,8 +36,10 @@
 
 ## Programs im familiar with
 
-[<img src="https://cdn.discordapp.com/attachments/947411387989229589/947411495631859712/447-4470662_filmora-png-transparent-png.png" alt="filmora" width="40" height="40"/>][filmora]
+[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/64/6f/c5646f64-ea00-43e6-4522-e8b58973b25f/filmora.png/1200x630bb.png" alt="filmora" width="40" height="40"/>][filmora]
 [<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
 <br/>
 
 ### 🎶 Spotify :>
@@ -79,6 +81,9 @@
 
 [filmora]: https://filmora.wondershare.com
 [paint]: https://getpaint.net
+[ps express]: https://obsproject.com/
+[obs]: https://getpaint.net
+
 
 <!-- Other Links -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
