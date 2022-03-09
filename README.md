@@ -81,8 +81,8 @@
 
 [filmora]: https://filmora.wondershare.com
 [paint]: https://getpaint.net
-[ps express]: https://obsproject.com/
-[obs]: https://getpaint.net
+[ps express]: https://www.adobe.com/in/products/photoshop-express.html
+[obs]: https://obsproject.com/
 
 
 <!-- Other Links -->
