@@ -7,9 +7,9 @@
 - 👀 I’m interested in developing discord bots and making websites !
 - 🌱 I’m currently learning more about web development and python
 - 📊 Currently working on a discord bot, <a href="https://discord.com/api/oauth2/authorize?client_id=944097176773095435&permissions=8&scope=bot%20applications.commands">Quax</a>
-- 💞️ I’m looking to collaborate on [Discord](https://discord.gg/gtzvnHZK8R)
+- 🔗 I’m looking to collaborate on [Discord](https://discord.gg/gtzvnHZK8R)
 - ⚡ Fun fact: I love valorant and music :>
-- If you wnna play valo with me contact me on discord :D
+- 🎮If you wnna play valo with me contact me on discord :D
 
 ## 📫 How to reach/contact me:-
 <h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
