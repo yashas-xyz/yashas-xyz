@@ -1,4 +1,3 @@
-<!-- credits to NotTCA -->
 ![](https://cdn.discordapp.com/attachments/947411387989229589/951756572713951232/git_hub_banner_2.jpg)
 
 <h1 align="center">👋 Hey there, I'm Yashas</h1>
@@ -9,7 +8,7 @@
 - 📊 Currently working on a discord bot, <a href="https://discord.com/api/oauth2/authorize?client_id=944097176773095435&permissions=8&scope=bot%20applications.commands">Quax</a>
 - 🔗 I’m looking to collaborate on [Discord](https://discord.gg/gtzvnHZK8R)
 - ⚡ Fun fact: I love [Valorant](https://tracker.gg/valorant/profile/riot/Yashas%23GAMER/overview?playlist=competitive&season=all) and [Music](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) :>
-- 🎮If you wnna play valo with me contact me on discord :D
+- 🎮 If you wnna play valo with me contact me on discord :D
 
 ## 📫 How to reach/contact me:-
 <h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
@@ -43,9 +42,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
 <br/>
 
-### 🎶 Spotify :>
+<!-- ### 🎶 Spotify :>
 
-[<img src="https://i.pinimg.com/originals/fb/2e/3c/fb2e3c79c3b4fd757275ec1bd4ba6aa8.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu)
+[<img src="https://i.pinimg.com/originals/fb/2e/3c/fb2e3c79c3b4fd757275ec1bd4ba6aa8.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) -->
 
 <details>
 <summary>:zap: GitHub Stats</summary>
