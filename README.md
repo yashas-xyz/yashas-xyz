@@ -70,7 +70,7 @@
 [reddit]: https://www.reddit.com/user/yashas_dev
 
 
-<!-- languages i know  -->
+<!-- languages i know -->
 
 [html]: https://en.wikipedia.org/wiki/HTML
 [css]: https://en.wikipedia.org/wiki/css
