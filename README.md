@@ -51,17 +51,10 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 <br />
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </details>
 </br>
-
-<details>
-<summary>💻 Most languages used</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</details>
-
 
 
 <!-- Other Socials -->
