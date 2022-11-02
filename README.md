@@ -50,10 +50,12 @@
 
 <details>
 <summary>:zap: GitHub Stats</summary>
-<br />
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-dev-xyz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+
+[![Yashas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)](https://github.com/Yashas-dev-xyz?tab=overview)
+<br>
+<a href="https://github.com/Yashas-dev-xyz?tab=overview">
+<img align="center" alt="Yashas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=radical" alt="More Stats" /></p>
 </details>
 </br>
 
