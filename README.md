@@ -12,7 +12,7 @@
 
 ## 📫 How to reach/contact me:-
 <h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
-<h6> 🌐 Website: https://yashas.is-a.dev/ </h6>
+<h6> 🌐 Website: https://yashas.is-a.dev/ (work in progress!) </h6>
 <h6> 💬 Discord: <a href="https://discordapp.com/users/793742209949630465">yashas.exe#2984</a></h6>
 
 ## Other Socials
