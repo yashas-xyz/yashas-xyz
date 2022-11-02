@@ -19,9 +19,11 @@
 [<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
-[<img align="left" alt="Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
-[![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner2)](https://discord.gg/gtzvnHZK8R)
+[<img align="left" alt="Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+][discord]
 [<img align="left" alt="Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
+
+[![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner2)](https://discord.gg/gtzvnHZK8R)
 
 <br />
 
