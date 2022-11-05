@@ -91,7 +91,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Yashas-dev-xyz/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Yashas-dev-xy/count.svg" />  
 </p>
 </details>
 
@@ -109,7 +109,16 @@
 [<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
+<!-- 
+## 🎵 Spotify status
+I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
+**(If Something is not playing, it just shows static info of the previous played song)** -->
 
+<!-- <p align="center">
+<a href="https://readme-new.vercel.app/api/song/?opened">
+  <img src="(https://spotify-github-profile.vercel.app/api/view uid=11nlbogq705ckt4usuoaw6egu&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)" width="341" height="571" alt="Now Playing">
+</a> -->
+  </p>
 
 <!--
   
