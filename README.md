@@ -91,7 +91,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Yashas-dev-xy/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Yashas-dev-xyz/count.svg" />  
 </p>
 </details>
 
