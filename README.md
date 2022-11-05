@@ -10,11 +10,14 @@
 - ✨ Fun fact: I love [`Valorant`](https://tracker.gg/valorant/profile/riot/Uzumaki%20Tanjiro%23monke/overview) and [`Music`](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) 
 - 🎮 If you wanna play `valorant` with me contact me on discord :D
 
-## 📫 How to reach/contact me:-
+<br>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 <h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
 <h6> 🌐 Website: https://yashas.is-a.dev/ (work in progress!) </h6>
 <h6> 💬 Discord: <a href="https://discordapp.com/users/793742209949630465">yashas.exe#2984</a></h6>
 
+[![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner3)](https://discord.gg/gtzvnHZK8R)
 ## Other Socials
 [<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
@@ -23,10 +26,7 @@
 ][discord]
 [<img align="left" alt="Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
 
-[![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner2)](https://discord.gg/gtzvnHZK8R)
-
-<br />
-
+<br>
 
 ## Languages i'm good at/learning 
 
@@ -34,9 +34,8 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/css3.svg" alt="css" width="40" height="40"/>][css]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/python.svg" alt="css" width="40" height="40"/>][python]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/javascript.svg" alt="css" width="40" height="40"/>][js]
-<br/>
-<br/>
 
+<br/>
 
 ## Programs im familiar with
 
