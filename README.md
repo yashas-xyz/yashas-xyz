@@ -9,16 +9,15 @@
 - 🔗 I’m looking to collaborate on [`Discord`](https://discord.gg/gtzvnHZK8R)
 - ✨ Fun fact: I love [`Valorant`](https://tracker.gg/valorant/profile/riot/Uzumaki%20Tanjiro%23monke/overview) and [`Music`](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) 
 - 🎮 If you wanna play `valorant` with me contact me on discord :D
-
 <br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" >Connect with me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"></h3>
 <h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
 <h6> 🌐 Website: https://yashas.is-a.dev/ (work in progress!) </h6>
 <h6> 💬 Discord: <a href="https://discordapp.com/users/793742209949630465">yashas.exe#2984</a></h6>
 
 [![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner3)](https://discord.gg/gtzvnHZK8R)
-## Other Socials
+
 [<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
@@ -48,18 +47,104 @@
 <!-- ### 🎶 Spotify :>
 
 [<img src="https://i.pinimg.com/originals/fb/2e/3c/fb2e3c79c3b4fd757275ec1bd4ba6aa8.gif" alt="yashas's Spotify" width="300" height="250"/>](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) -->
+<p  align="center">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
+                  
+  <br>
 
-<details>
-<summary>:zap: GitHub Stats</summary>
+  
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=dark&hide_border=true" />
 
-[![Yashas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&show_icons=true&theme=radical)](https://github.com/Yashas-dev-xyz?tab=overview)
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yashas-dev-xyz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
 <br>
-<a href="https://github.com/Yashas-dev-xyz?tab=overview">
-<img align="center" alt="Yashas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-dev-xyz&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=radical" alt="More Stats" /></p>
-</details>
-</br>
 
+
+
+
+
+
+
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+</p>  
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+<br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Yashas-dev-xyz&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<br>
+
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+
+
+
+
+
+
+<br>
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yashas-dev-xyz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+</p>
+
+
+
+
+
+
+
+
+ <br> 
+ 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+ 
+ <br>
+
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Yashas-dev-xyz/count.svg" />  
+</p>
+
+<!--
+  
 
 <!-- Other Socials -->
 [yt]: https://www.youtube.com/channel/UCS8bP7mujB3DZ_dqK3Au2nw
