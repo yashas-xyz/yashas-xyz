@@ -17,8 +17,6 @@
 
 [![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner3)](https://discord.gg/gtzvnHZK8R)
 
-<br>
-
 [<img align="left" alt="YouTube" height="32" width="32px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][yt]
 [<img align="left" alt="Instagram" width="32px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][insta]
 [<img align="left" alt="Twitter" height="28" width="32px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][tweet]
