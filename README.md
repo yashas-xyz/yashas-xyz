@@ -19,10 +19,10 @@
 
 <br>
 
-[<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
-[<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
-[<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
-[<img align="left" alt="Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
+[<img align="left" alt="YouTube" height="32" width="32px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][yt]
+[<img align="left" alt="Instagram" width="32px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][insta]
+[<img align="left" alt="Twitter" height="28" width="32px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][tweet]
+[<img align="left" alt="Reddit" width="32px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />][reddit]
 
 
 <br>
