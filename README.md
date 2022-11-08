@@ -98,10 +98,10 @@
 
 ## Languages i'm good at/learning 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/html5.svg" alt="html" width="40" height="40"/>][html]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/css3.svg" alt="css" width="40" height="40"/>][css]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/python.svg" alt="css" width="40" height="40"/>][python]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/javascript.svg" alt="css" width="40" height="40"/>][js]
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>][html]
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>][css]
+[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" width="40" height="40"/>][python]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css" width="40" height="40"/>][js]
 
 ## Programs im familiar with
 
@@ -109,18 +109,9 @@
 [<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
-<!-- 
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)** -->
 
-<!-- <p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="(https://spotify-github-profile.vercel.app/api/view uid=11nlbogq705ckt4usuoaw6egu&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)" width="341" height="571" alt="Now Playing">
-</a> -->
-  </p>
 
-<!--
+
   
 
 <!-- Other Socials -->
