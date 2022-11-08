@@ -35,27 +35,31 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
+   <details>
+  <summary>⭐Stats</summary>  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&theme=cobalt&show_icons=true&count_private=true" />
+      </details>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=dark&hide_border=true" />
-  
+   <details>
+  <summary>💪Streak</summary>  
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=dark&hide_border=true" />
+      </details>
 </td>
 
 <td width="50%" align="center">
-
+ <details>
+  <summary>💻Languages</summary>   
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yashas-dev-xyz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+   </details>
   </td>
 </tr>
 </table>
-
-<br>
-
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 </p>  
-                                                                                 
-<br>
+
+ <details>
+  <summary>🏆Trophies</summary>                                                                                
+
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -63,28 +67,25 @@
     </a>
 </div>
 </p>
-
-<br>
+</details>
 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
-
-
-
-<br>
+<details>
+  <summary>📊Activity Graph</summary>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yashas-dev-xyz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
+</details>
 
-
- <br> 
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
  
- <br>
 
 
+<details>
+  <summary>🔄 Profile Visitor Count</summary>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -93,7 +94,8 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Yashas-dev-xyz/count.svg" />  
 </p>
-</details>
+ </details>
+
 
 
 ## Languages i'm good at/learning 
@@ -110,9 +112,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
 
-
-
-  
+<h3 align="center">The End...</h1>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <!-- Other Socials -->
 [yt]: https://www.youtube.com/channel/UCS8bP7mujB3DZ_dqK3Au2nw
