@@ -26,7 +26,7 @@
 <br>
 > Support (Buy me a coffee!) 💲
 
-<a href="https://www.buymeacoffee.com/yashasxyz"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b7611709cd5fcdac368559e72ef566bc20dcdcfff4295&rid=giphy.gif&ct=s" alt="Buy me a coffee" align="center" style="width:70px;height:70px;"></a>
+<a href="https://www.buymeacoffee.com/yashasxyz"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b7611709cd5fcdac368559e72ef566bc20dcdcfff4295&rid=giphy.gif&ct=s" alt="Buy me a coffee" align="center" style="width:70px"></a>
 
 ## Languages i'm good at/learning 
 
