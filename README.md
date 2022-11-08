@@ -17,15 +17,18 @@
 
 [![discord](https://discordapp.com/api/guilds/845704704263585884/embed.png?style=banner3)](https://discord.gg/gtzvnHZK8R)
 
+> Other Socials 
+
 [<img align="left" alt="YouTube" height="32" width="32px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][yt]
 [<img align="left" alt="Instagram" width="32px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][insta]
 [<img align="left" alt="Twitter" height="28" width="32px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][tweet]
 [<img align="left" alt="Reddit" width="32px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />][reddit]
+<br>
+> Support (Buy me a coffee!) 💲
 
+<a href="https://www.buymeacoffee.com/yashasxyz"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b7611709cd5fcdac368559e72ef566bc20dcdcfff4295&rid=giphy.gif&ct=s" alt="Buy me a coffee" align="center" style="width:70px;height:70px;"></a>
 
 <br>
-
-
 
 ## Languages i'm good at/learning 
 
@@ -112,7 +115,7 @@
 </p>
  </details>
 
-
+  <br>
 
 <h3 align="center">The End...</h1>
 <p align="center"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
