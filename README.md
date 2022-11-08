@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/947411387989229589/951756572713951232/git_hub_banner_2.jpg)
 
-<h1 align="center">👋 Hey there, I'm Yashas</h1>
-<h3 align="center">Yet another web dev, working on my discord bot..! 🤖</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Yashas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Yet another web dev..! 👨‍💻</h3>
 
 - 👀 I’m interested in developing discord bots and making websites !
 - 🌱 I’m currently learning more about `web development` and `python`
@@ -111,7 +111,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
 
 <h3 align="center">The End...</h1>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
 
 <!-- Other Socials -->
 [yt]: https://www.youtube.com/channel/UCS8bP7mujB3DZ_dqK3Au2nw
