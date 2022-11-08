@@ -28,8 +28,6 @@
 
 <a href="https://www.buymeacoffee.com/yashasxyz"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b7611709cd5fcdac368559e72ef566bc20dcdcfff4295&rid=giphy.gif&ct=s" alt="Buy me a coffee" align="center" style="width:70px;height:70px;"></a>
 
-<br>
-
 ## Languages i'm good at/learning 
 
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>][html]
