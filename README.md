@@ -25,6 +25,24 @@
 
 <br>
 
+
+
+## Languages i'm good at/learning 
+
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>][html]
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>][css]
+[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" width="40" height="40"/>][python]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css" width="40" height="40"/>][js]
+
+## Programs im familiar with
+
+[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/64/6f/c5646f64-ea00-43e6-4522-e8b58973b25f/filmora.png/1200x630bb.png" alt="filmora" width="40" height="40"/>][filmora]
+[<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
+
+<br>
+
 <h1 align="center">⚡ Github Stats ⚡</h1>
 
 <p  align="center">
@@ -95,20 +113,6 @@
  </details>
 
 
-
-## Languages i'm good at/learning 
-
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>][html]
-[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>][css]
-[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" width="40" height="40"/>][python]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css" width="40" height="40"/>][js]
-
-## Programs im familiar with
-
-[<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/64/6f/c5646f64-ea00-43e6-4522-e8b58973b25f/filmora.png/1200x630bb.png" alt="filmora" width="40" height="40"/>][filmora]
-[<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="ps express" width="40" height="40"/>][ps express] 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1200px-OBS_Studio_Logo.svg.png" alt="obs studio" width="40" height="40"/>][obs]
 
 <h3 align="center">The End...</h1>
 <p align="center"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
