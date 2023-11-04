@@ -54,19 +54,19 @@
 <td width="50%" align="center">
    <details>
   <summary>⭐Stats</summary>  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yashas-dev-xyz&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yashas-xyz&theme=cobalt&show_icons=true&count_private=true" />
       </details>
   <br></br>
    <details>
   <summary>💪Streak</summary>  
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-dev-xyz&theme=dark&hide_border=true" />
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-xyz&theme=dark&hide_border=true" />
       </details>
 </td>
 
 <td width="50%" align="center">
  <details>
   <summary>💻Languages</summary>   
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yashas-dev-xyz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yashas-xyz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
    </details>
   </td>
 </tr>
@@ -80,7 +80,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Yashas-dev-xyz&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Yashas-xyz&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -92,7 +92,7 @@
   <summary>📊Activity Graph</summary>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yashas-dev-xyz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yashas-xyz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 </details>
 
