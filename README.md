@@ -92,7 +92,7 @@
   <summary>📊Activity Graph</summary>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yashas-xyz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashas-xyz&bg_color=000000&color=00ff11&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))  
 </p>
 </details>
 
@@ -116,7 +116,7 @@
   <br>
 
 <h3 align="center">The End...</h1>
-<p align="center"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
+<p align="center"><img src="[https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg](https://images.squarespace-cdn.com/content/v1/5c8fe0652727be76a540eff5/1565151924061-YGD19P2WQYK11M4KRZEY/Snake_Dev_EnemyAndDie.gif)" alt="Snake"></p>
 
 <!-- Other Socials -->
 [yt]: https://www.youtube.com/channel/UCS8bP7mujB3DZ_dqK3Au2nw
