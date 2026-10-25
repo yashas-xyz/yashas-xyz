@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about `web development` and `python`
 - 📊 Currently working on a discord bot, <a href="https://discord.com/api/oauth2/authorize?client_id=944097176773095435&permissions=8&scope=bot%20applications.commands">`Quax`</a>
 - 🔗 I’m looking to collaborate on [`Discord`](https://discord.gg/gtzvnHZK8R)
-- ✨ Fun fact: I love [`Valorant`](https://tracker.gg/valorant/profile/riot/Uzumaki%20Tanjiro%23monke/overview) and [`Music`](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) 
+- 😘 :  [`Valorant`](https://tracker.gg/valorant/profile/riot/Uzumaki%20Tanjiro%23monke/overview) and [`Music`](https://open.spotify.com/user/11nlbogq705ckt4usuoaw6egu) 
 - 🎮 If you wanna play `valorant` with me contact me on discord :D
 <br>
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" >Connect with me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"></h1>
