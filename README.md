@@ -11,7 +11,7 @@
 - 🎮 If you wanna play `valorant` with me contact me on discord :D
 <br>
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" >Connect with me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"></h1>
-<h6> 📧 E-Mail: <a href="mailto:yashas.codes@gmail.com">yashas.codes@gmail.com</a></h6>
+<h6> 📧 E-Mail: 
 <h6> 🌐 Website: https://yashas.is-a.dev/ (work in progress!) </h6>
 <h6> 💬 Discord: <a href="https://discordapp.com/users/793742209949630465">yashas.exe#2984</a></h6>
 
